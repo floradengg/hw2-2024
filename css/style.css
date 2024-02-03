@@ -53,7 +53,7 @@ div{
     background-color: #0000FF;
     text-align: left;
     margin-right: 50px;
-    border-width: 0px 5px 0px 2px;
+    border-width: 2px 5px 0px 0px;
 }
 
 .blue h2{
@@ -76,7 +76,7 @@ div{
 }
 
 .green{
-    background-color: #00EB00;
+    background-color:  #008500;
     text-align: left;
     margin-right: 50px;
     border-width: 2px 5px 0px 0px; 
